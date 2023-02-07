@@ -1,0 +1,8 @@
+server:
+  port: 7777
+
+spring:
+  application:
+    name: eureka-client #应用名称（集群下相同）
+
+name：config-client-default
