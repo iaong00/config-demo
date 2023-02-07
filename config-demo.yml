@@ -3,6 +3,6 @@ server:
 
 spring:
   application:
-    name: eureka-client #应用名称（集群下相同）
+    name: eureka-client
 
-name：config-client-default
+  name：config-client-default
